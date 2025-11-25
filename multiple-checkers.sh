@@ -3,7 +3,7 @@
 # Runs multiple accounts simultaneously
 
 # Activate venv
-source /home/ubuntu/venvs/bots/bin/activate
+source /home/user/venv/bin/activate
 
 # Set environment
 export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
