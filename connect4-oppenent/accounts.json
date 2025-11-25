@@ -1,0 +1,18 @@
+{
+  "accounts": [
+    {
+      "email": "imasha.data@gmail.com",
+      "password": "qazxsw",
+      "games_per_run": 1,
+      "bet_increase_clicks": 2,
+      "enabled": true
+    }
+  ],
+  "settings": {
+    "headless": true,
+    "challenge_wait_timeout": 300,
+    "wait_between_games": 10,
+    "max_parallel_accounts": 5,
+    "stagger_start_delay": 2
+  }
+}

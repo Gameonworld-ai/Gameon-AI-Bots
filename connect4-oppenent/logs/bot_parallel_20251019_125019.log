@@ -1,0 +1,48 @@
+2025-10-19 12:50:19,812 - MainThread - __main__ - INFO - ╔═══════════════════════════════════════════════════════════════╗
+2025-10-19 12:50:19,813 - MainThread - __main__ - INFO - ║  Connect 4 Multi-Account PARALLEL Bot - ULTRA-GODMODE AI     ║
+2025-10-19 12:50:19,813 - MainThread - __main__ - INFO - ║  Started: 2025-10-19 12:50:19                               ║
+2025-10-19 12:50:19,813 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝
+2025-10-19 12:50:19,813 - MainThread - __main__ - INFO - Processing 1 accounts with max 5 parallel
+2025-10-19 12:50:19,813 - MainThread - __main__ - INFO - Stagger delay: 2s
+2025-10-19 12:50:19,814 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ╔════════════════════════════════════════╗
+2025-10-19 12:50:19,814 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Starting session - 1 games
+2025-10-19 12:50:19,814 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ╚════════════════════════════════════════╝
+2025-10-19 12:50:20,278 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Bot initialized - ULTRA-GODMODE AI
+2025-10-19 12:50:24,561 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Login page loaded
+2025-10-19 12:50:24,562 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Logging in...
+2025-10-19 12:50:38,886 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Login successful ✓
+2025-10-19 12:50:38,887 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ─── Game 1/1 ───
+2025-10-19 12:50:38,887 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Monitoring Challenges section (timeout: 300s)...
+2025-10-19 12:50:39,324 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (0s)
+2025-10-19 12:51:10,733 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:51:30,138 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (50s)
+2025-10-19 12:51:39,798 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (60s)
+2025-10-19 12:51:44,633 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:51:49,529 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (70s)
+2025-10-19 12:52:18,577 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:52:50,195 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (130s)
+2025-10-19 12:52:52,641 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:52:59,981 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (140s)
+2025-10-19 12:53:09,709 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (150s)
+2025-10-19 12:53:19,422 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (160s)
+2025-10-19 12:53:26,677 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:54:00,747 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:54:20,203 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (220s)
+2025-10-19 12:54:29,875 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (230s)
+2025-10-19 12:54:34,720 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:54:39,617 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] No Connect 4 in 'Challenges' section... (240s)
+2025-10-19 12:55:08,613 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Refreshing page...
+2025-10-19 12:55:39,717 - ThreadPoolExecutor-0_0 - __main__ - WARNING - [gayanishara121@gmail.com] Timeout - no Connect 4 in 'Challenges' section
+2025-10-19 12:55:39,717 - ThreadPoolExecutor-0_0 - __main__ - WARNING - [gayanishara121@gmail.com] No challenge for game 1
+2025-10-19 12:55:49,947 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Browser closed
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ╠═══ PROGRESS: 1/1 accounts, 0/1 games succeeded ═══╣
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - 
+╔═══════════════════════════════════════════════════════════════╗
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ║                      EXECUTION SUMMARY                        ║
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ║ ✓ gayanishara121@gmail.com                  0/1  games ║
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ║ Accounts: 1/1 successful                                           ║
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ║ Games:    0/1 succeeded                                              ║
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ║ Completed: 2025-10-19 12:55:50                                     ║
+2025-10-19 12:55:50,054 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝

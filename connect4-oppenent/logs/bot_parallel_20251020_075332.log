@@ -1,0 +1,48 @@
+2025-10-20 07:53:32,334 - MainThread - __main__ - INFO - ╔═══════════════════════════════════════════════════════════════╗
+2025-10-20 07:53:32,334 - MainThread - __main__ - INFO - ║  Connect 4 Multi-Account PARALLEL Bot - ULTRA-GODMODE AI     ║
+2025-10-20 07:53:32,335 - MainThread - __main__ - INFO - ║  Started: 2025-10-20 07:53:32                               ║
+2025-10-20 07:53:32,335 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝
+2025-10-20 07:53:32,335 - MainThread - __main__ - INFO - Processing 1 accounts with max 5 parallel
+2025-10-20 07:53:32,335 - MainThread - __main__ - INFO - Stagger delay: 2s
+2025-10-20 07:53:32,336 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] ╔════════════════════════════════════════╗
+2025-10-20 07:53:32,336 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] Starting session - 1 games
+2025-10-20 07:53:32,336 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] ╚════════════════════════════════════════╝
+2025-10-20 07:53:32,750 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] Bot initialized - ULTRA-GODMODE AI
+2025-10-20 07:53:36,630 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] Login page loaded
+2025-10-20 07:53:36,630 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] Logging in...
+2025-10-20 07:53:59,222 - ThreadPoolExecutor-0_0 - __main__ - ERROR - [imasha.data@gmail.com] Login error: Message: 
+Stacktrace:
+#0 0x5f4e465ff4ca <unknown>
+#1 0x5f4e4607e566 <unknown>
+#2 0x5f4e460d068d <unknown>
+#3 0x5f4e460d0921 <unknown>
+#4 0x5f4e4611ee94 <unknown>
+#5 0x5f4e460f665d <unknown>
+#6 0x5f4e4611c328 <unknown>
+#7 0x5f4e460f6403 <unknown>
+#8 0x5f4e460c2b02 <unknown>
+#9 0x5f4e460c37c1 <unknown>
+#10 0x5f4e465c3298 <unknown>
+#11 0x5f4e465c70ff <unknown>
+#12 0x5f4e465aa729 <unknown>
+#13 0x5f4e465c7ca5 <unknown>
+#14 0x5f4e4658ff8f <unknown>
+#15 0x5f4e465ec308 <unknown>
+#16 0x5f4e465ec4e3 <unknown>
+#17 0x5f4e465fe463 <unknown>
+#18 0x75f4e929caa4 <unknown>
+#19 0x75f4e9329c6c <unknown>
+
+2025-10-20 07:53:59,223 - ThreadPoolExecutor-0_0 - __main__ - ERROR - [imasha.data@gmail.com] Login failed
+2025-10-20 07:53:59,340 - ThreadPoolExecutor-0_0 - __main__ - INFO - [imasha.data@gmail.com] Browser closed
+2025-10-20 07:53:59,352 - MainThread - __main__ - INFO - ╠═══ PROGRESS: 0/1 accounts, 0/0 games succeeded ═══╣
+2025-10-20 07:53:59,352 - MainThread - __main__ - INFO - 
+╔═══════════════════════════════════════════════════════════════╗
+2025-10-20 07:53:59,352 - MainThread - __main__ - INFO - ║                      EXECUTION SUMMARY                        ║
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ║ ✗ imasha.data@gmail.com                     0/0  games ║
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ║ Accounts: 0/1 successful                                           ║
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ║ Games:    0/0 succeeded                                              ║
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ║ Completed: 2025-10-20 07:53:59                                     ║
+2025-10-20 07:53:59,353 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝

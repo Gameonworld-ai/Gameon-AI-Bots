@@ -1,0 +1,269 @@
+{
+  "accounts": [
+    {
+      "email": "borab78059@arqsis.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": true,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": true
+    },
+    {
+      "email": "hayeye2483@arqsis.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        },
+        "checkers": {
+          "enabled": true,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": true
+    },
+    {
+      "email": "imari.jaymar@moonfee.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 3,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": true,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": true
+    },
+    {
+      "email": "zoc70397@toaik.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "uxw64964@toaik.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "balab69084@ametitas.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "3kne4@tiffincrane.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "9pn9f@tiffincrane.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "tvsy4@tiffincrane.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "i2ymg@tiffincrane.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    },
+    {
+      "email": "iyy8699f27@illubd.com",
+      "password": "123456",
+      "games": {
+        "connect4": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "checkers": {
+          "enabled": false,
+          "games_per_run": 1,
+          "bet_increase_clicks": 2
+        },
+        "tictactoe": {
+          "enabled": false,
+          "games_per_run": 2,
+          "bet_increase_clicks": 1
+        }
+      },
+      "enabled": false
+    }
+  ],
+  "settings": {
+    "headless": true,
+    "opponent_wait_timeout": 180,
+    "wait_between_games": 4,
+    "max_parallel_accounts": 2,
+    "stagger_start_delay": 5,
+    "connect4": {
+      "ai_depth": 7,
+      "timeout_per_move": 10
+    },
+    "checkers": {
+      "early_game_depth": 4,
+      "mid_game_depth": 5,
+      "end_game_depth": 7,
+      "max_time_per_move": 8
+    },
+    "tictactoe": {
+      "early_game_depth": 6,
+      "mid_game_depth": 7,
+      "end_game_depth": 9,
+      "max_time_per_move": 8
+    }
+  }
+}

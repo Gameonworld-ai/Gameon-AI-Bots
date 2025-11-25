@@ -1,0 +1,61 @@
+2025-10-20 07:39:04,747 - MainThread - __main__ - INFO - ╔═══════════════════════════════════════════════════════════════╗
+2025-10-20 07:39:04,748 - MainThread - __main__ - INFO - ║  Connect 4 Multi-Account PARALLEL Bot - ULTRA-GODMODE AI     ║
+2025-10-20 07:39:04,748 - MainThread - __main__ - INFO - ║  Started: 2025-10-20 07:39:04                               ║
+2025-10-20 07:39:04,748 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝
+2025-10-20 07:39:04,748 - MainThread - __main__ - INFO - Processing 1 accounts with max 5 parallel
+2025-10-20 07:39:04,748 - MainThread - __main__ - INFO - Stagger delay: 2s
+2025-10-20 07:39:04,749 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ╔════════════════════════════════════════╗
+2025-10-20 07:39:04,749 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Starting session - 1 games
+2025-10-20 07:39:04,750 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ╚════════════════════════════════════════╝
+2025-10-20 07:39:05,332 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Bot initialized - ULTRA-GODMODE AI
+2025-10-20 07:39:08,739 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Login page loaded
+2025-10-20 07:39:08,739 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Logging in...
+2025-10-20 07:39:21,562 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Login successful ✓
+2025-10-20 07:39:21,562 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ─── Game 1/1 ───
+2025-10-20 07:39:21,562 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Monitoring Challenges section (timeout: 300s)...
+2025-10-20 07:39:22,051 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Connect 4 found in 'Challenges' section (level 2)!
+2025-10-20 07:39:22,534 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Clicking Connect 4 in 'Challenges' section...
+2025-10-20 07:39:25,081 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Joining challenge...
+2025-10-20 07:39:35,604 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Game loaded!
+2025-10-20 07:39:35,605 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Starting game
+2025-10-20 07:39:37,678 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Player 2
+2025-10-20 07:39:39,288 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Opening: 3
+2025-10-20 07:39:39,521 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 3
+2025-10-20 07:39:45,127 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:39:54,128 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 2, Time: 9.00s, Score: 94.0
+2025-10-20 07:39:54,316 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 2
+2025-10-20 07:40:06,182 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:40:15,186 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 2, Time: 9.00s, Score: 264.0
+2025-10-20 07:40:15,363 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 2
+2025-10-20 07:40:25,717 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:40:34,720 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 4, Time: 9.00s, Score: 94.0
+2025-10-20 07:40:34,908 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 4
+2025-10-20 07:40:43,466 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:40:52,467 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 2, Time: 9.00s, Score: 464.0
+2025-10-20 07:40:52,643 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 2
+2025-10-20 07:41:01,294 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★★★ WINNING: 3
+2025-10-20 07:41:01,473 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 3
+2025-10-20 07:41:10,123 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:41:19,125 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 3, Time: 9.00s, Score: 326.0
+2025-10-20 07:41:19,313 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 3
+2025-10-20 07:41:26,416 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 12...
+2025-10-20 07:41:35,418 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 4, Time: 9.00s, Score: 128.0
+2025-10-20 07:41:35,648 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 4
+2025-10-20 07:41:42,754 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Computing depth 14...
+2025-10-20 07:41:43,241 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] ★ Column 1, Time: 0.49s, Score: 10,110,000
+2025-10-20 07:41:43,419 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Played 1
+2025-10-20 07:41:52,535 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Game finished
+2025-10-20 07:41:52,535 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Game completed (9 moves)
+2025-10-20 07:41:55,535 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Post-game handling
+2025-10-20 07:42:00,869 - ThreadPoolExecutor-0_0 - __main__ - INFO - [gayanishara121@gmail.com] Browser closed
+2025-10-20 07:42:01,004 - MainThread - __main__ - INFO - ╠═══ PROGRESS: 1/1 accounts, 1/1 games succeeded ═══╣
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - 
+╔═══════════════════════════════════════════════════════════════╗
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - ║                      EXECUTION SUMMARY                        ║
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - ║ ✓ gayanishara121@gmail.com                  1/1  games ║
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - ╠═══════════════════════════════════════════════════════════════╣
+2025-10-20 07:42:01,005 - MainThread - __main__ - INFO - ║ Accounts: 1/1 successful                                           ║
+2025-10-20 07:42:01,006 - MainThread - __main__ - INFO - ║ Games:    1/1 succeeded                                              ║
+2025-10-20 07:42:01,006 - MainThread - __main__ - INFO - ║ Completed: 2025-10-20 07:42:01                                     ║
+2025-10-20 07:42:01,006 - MainThread - __main__ - INFO - ╚═══════════════════════════════════════════════════════════════╝
