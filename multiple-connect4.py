@@ -23,7 +23,7 @@ from queue import Queue
 import concurrent.futures
 
 # Configure logging
-LOG_DIR = Path("/home/user/logs")
+LOG_DIR = Path("/home/user/Gameon-AI-Bots/logs")
 LOG_DIR.mkdir(exist_ok=True)
 
 logging.basicConfig(
