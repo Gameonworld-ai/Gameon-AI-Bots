@@ -3,7 +3,7 @@
 # Runs multiple accounts simultaneously
 
 # Activate venv
-source /home/ubuntu/venvs/bots/bin/activate
+source /home/user/Gameon-AI-Bots/venv/bin/activate
 
 # Set environment
 export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
@@ -17,7 +17,7 @@ if ! pgrep -x "Xvfb" > /dev/null; then
 fi
 
 # Change to bot directory
-cd /home/ubuntu/bots
+cd /home/user/Gameon-AI-Bots
 
 # Check if config exists
 if [ ! -f "accounts.json" ]; then
@@ -38,7 +38,7 @@ python multiple-tictactoe.py
 EXIT_CODE=$?
 
 # Clean old logs (keep last 30 days)
-find /home/ubuntu/bots/logs -name "*.log" -mtime +30 -delete 2>/dev/null
+find /home/user/Gameon-AI-Bots/logs -name "*.log" -mtime +30 -delete 2>/dev/null
 
 # Deactivate venv
 deactivate
